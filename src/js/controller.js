@@ -130,3 +130,5 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
+
+console.log('new feature');
