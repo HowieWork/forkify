@@ -4,7 +4,7 @@
 
 ## BRIEF
 
-Search over 1,000,000 recipes | [**DEMO**](https://howiework.github.io/Mapty/)
+Search over 1,000,000 recipes | [**DEMO**](https://forkify-howie.netlify.app)
 
 <p>&nbsp;</p>
 
