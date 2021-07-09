@@ -9,6 +9,7 @@ import addRecipeView from './views/addRecipeView.js';
 
 import 'regenerator-runtime/runtime'; // Polyfill Async/Await
 import 'core-js/stable'; // Polyfill everything else
+import { async } from 'regenerator-runtime';
 
 // if (module.hot) {
 //   module.hot.accept();
