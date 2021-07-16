@@ -5,12 +5,13 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build --no-minify index.html --dist-dir ./dist"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "2.0.0-beta.1",
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "2.0.0-beta.2",
     "sass": "1.26.10"
   },
   "dependencies": {
